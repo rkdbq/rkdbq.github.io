@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Learner @ Samsung SW Academy for Youth
+role: Software Engineer @ Satrec Initiative Co., Ltd.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -29,7 +29,7 @@ education:
   - area: Mobile Track
     institution: Samsung SW Academy for Youth
     date_start: 2019-01-07
-    date_end: ''
+    date_end: 2025-04-20
 
   - area: Bachelor of Computer Science and Engineering
     institution: Jeonbuk National University
@@ -39,6 +39,13 @@ education:
       - Major GPA 4.37 / 4.50
       - Cumulative GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_ENG.pdf)
 work:
+  - position: Software Engineer
+    company_name: 'Satrec Initiative Co., Ltd.'
+    company_url: https://sites.google.com/view/vclab-cnu
+    company_logo: https://infra1-static.recruiter.co.kr/builder/2023/11/14/9ee0e82a-3e48-4008-8239-99608cba5ed4.png
+    date_start: 2025-04-21
+    date_end: ''
+    summary: |
   - position: Undergraduate Intern
     company_name: 'Visual Computing Lab. (Advisor: Prof. Hyung-ki Kim)'
     company_url: https://sites.google.com/view/vclab-cnu
@@ -90,7 +97,6 @@ languages:
     percent: 50
 ---
 
-#### I am a learner in the Samsung SW Academy for Youth 13th.
 ### I aim to build deep and meaningful experiences.
 - [Started with language study and deployed a dormitory roommate matching platform.](projects/roomie/)
 - [Contributed to two research projects at the Visual Computing Lab, starting with model understanding.](publication/)
